@@ -1,22 +1,27 @@
 # dashboard-html-template
 
-Descricao publica do projeto (sem dados sensiveis).
+Template de dashboard web para apresentacao de metricas e indicadores, com foco em visualizacao clara e reutilizacao.
 
 ## 🚀 Tecnologias
-- Definir tecnologias usadas
+- HTML5
+- CSS3
+- JavaScript (vanilla)
 
 ## 📊 Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
+- Layout de dashboard responsivo.
+- Componentes de cards, tabelas e graficos.
+- Estrutura reutilizavel para novos projetos de BI.
+- Base pronta para integracao com APIs ou CSV.
 
 ## ⚙️ Como Executar
-1. Clonar repositório
-2. Instalar dependencias
-3. Executar projeto
+1. Clone o repositorio privado correspondente.
+2. Abra o arquivo principal HTML no navegador.
+3. Ajuste fontes de dados e componentes conforme necessidade.
 
 ## 🗂 Estrutura do Projeto
-- pasta-1: descricao
-- pasta-2: descricao
+- `assets/`: estilos, scripts e midias.
+- arquivos `.html`: telas e templates do dashboard.
+- `README.md`: instrucoes de uso e personalizacao.
 
 ## 📌 Status
 Em desenvolvimento

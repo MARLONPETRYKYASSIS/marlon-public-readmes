@@ -1,22 +1,29 @@
 # agente-ia-bot
 
-Descricao publica do projeto (sem dados sensiveis).
+Agente de IA para automacao de tarefas operacionais e atendimento assistido, com foco em produtividade e integracao de fluxos.
 
 ## 🚀 Tecnologias
-- Definir tecnologias usadas
+- JavaScript
+- Node.js
+- APIs HTTP/REST
+- JSON
 
 ## 📊 Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
+- Processamento de comandos e intents de usuario.
+- Integracao com servicos externos via API.
+- Respostas orientadas a fluxo de negocio.
+- Base pronta para evolucao com novos modulos de automacao.
 
 ## ⚙️ Como Executar
-1. Clonar repositório
-2. Instalar dependencias
-3. Executar projeto
+1. Clone o repositorio privado correspondente.
+2. Instale dependencias com `npm install`.
+3. Configure variaveis de ambiente em `.env`.
+4. Execute em desenvolvimento com `npm run dev`.
 
 ## 🗂 Estrutura do Projeto
-- pasta-1: descricao
-- pasta-2: descricao
+- `src/`: regras de negocio e modulos do agente.
+- `assets/`: arquivos estaticos e suporte visual (quando aplicavel).
+- `README.md`: documentacao principal do projeto.
 
 ## 📌 Status
 Em desenvolvimento
