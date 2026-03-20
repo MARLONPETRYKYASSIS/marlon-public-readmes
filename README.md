@@ -13,3 +13,5 @@ Repositorio publico com documentacao profissional dos projetos, sem exposicao de
 - [dashboard-html-template](./readmes/dashboard-html-template/README.md)
 - [sistema-rh-ms-tech](./readmes/sistema-rh-ms-tech/README.md)
 - [portfolio-marlon](./readmes/portfolio-marlon/README.md)
+- [dashboard-treinamentos-normativos](./readmes/dashboard-treinamentos-normativos/README.md)
+- [dashboard-attrition](./readmes/dashboard-attrition/README.md)
