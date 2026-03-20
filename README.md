@@ -1,17 +1,18 @@
-# Marlon Public READMEs
+# Marlon Petryky de Assis | Projetos de Dados
 
-Repositorio publico com documentacao profissional dos projetos, sem exposicao de codigo interno, credenciais ou bases de dados.
+Repositório público com documentação dos projetos entregues em ambiente 
 
-## Objetivo
-- Centralizar documentacao publica dos projetos.
-- Mostrar stack tecnica e escopo funcional.
-- Reduzir risco de vazamento de dados sensiveis.
+corporativo. Sem dados sensíveis ou de colaboradores reais.
 
-## Projetos
-- [agente-ia-bot](./readmes/agente-ia-bot/README.md)
-- [dashboard-clientes-python](./readmes/dashboard-clientes-python/README.md)
-- [dashboard-html-template](./readmes/dashboard-html-template/README.md)
-- [sistema-rh-ms-tech](./readmes/sistema-rh-ms-tech/README.md)
-- [portfolio-marlon](./readmes/portfolio-marlon/README.md)
-- [dashboard-treinamentos-normativos](./readmes/dashboard-treinamentos-normativos/README.md)
-- [dashboard-attrition](./readmes/dashboard-attrition/README.md)
+## Projetos Entregues
+
+| Projeto | Stack | Contexto |
+|---|---|---|
+| [Dashboard Treinamentos Normativos](./readmes/dashboard-treinamentos-normativos/README.md) | Power BI · DAX · Excel | Bracell · 8.000 colaboradores |
+| [Dashboard Attrition](./readmes/dashboard-attrition/README.md) | Power BI · DAX · Excel | Análise de turnover corporativo |
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/marlon-petryky
+- GitHub: https://github.com/MARLONPETRYKYASSIS
+- Email: marlonpetryky35@gmail.com
